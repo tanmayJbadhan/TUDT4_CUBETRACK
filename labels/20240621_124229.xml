@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>20240621_124229.jpg</filename>
+	<path>/my-project-name/20240621_124229.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1816</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Artist_Info</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>78</xmin>
+			<ymin>1342</ymin>
+			<xmax>1139</xmax>
+			<ymax>2368</ymax>
+		</bndbox>
+	</object>
+</annotation>

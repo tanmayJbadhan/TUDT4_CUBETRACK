@@ -1,0 +1,25 @@
+item {
+  name: "Artist_Info"
+  id: 1
+}
+
+item {
+  name: "Info"
+  id: 2
+}
+
+item {
+  name: "Story"
+  id: 3
+}
+
+item {
+  name: "Like/Dislike"
+  id: 4
+}
+
+item {
+  name: "Star"
+  id: 5
+}
+
